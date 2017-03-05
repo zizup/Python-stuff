@@ -11,7 +11,7 @@ import time
 print "This program started on:", time.asctime()
 
 repetitions = 3
-time_of_sleep = 4 #2 * 60 * 60 # in seconds
+time_of_sleep = 2 * 60 * 60 # in seconds
 
 for i in xrange(0,repetitions):
 	# waits for N seconds
