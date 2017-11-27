@@ -66,4 +66,5 @@ for i in range(len(all_degrees)):
 	if i != 0:
 		target_file.write("\n") # prints a new line first, except for the first line
 	target_file.write(str(all_degrees[i])) # writes to the opened txt file
-target_file.close() # close the file
+
+target_file.close() # I'll go with this one
