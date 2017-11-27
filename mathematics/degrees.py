@@ -3,7 +3,7 @@
 #	degrees.py
 #	admin@doctorcode.net
 #	24 January 2017
-#	Transform degrees into radians --> ekquivalent to math.radians()
+#	Transform degrees into radians --> equivalent to math.radians()
 # 	https://en.wikipedia.org/wiki/Minute_and_second_of_arc
 #	Usage:
 # 		- python degrees.py
